@@ -1,0 +1,10 @@
+  This repository includes a link to my informal code review video, created as part of the CS499 Computer Science Capstone course. The purpose of the review is to walk through my selected 
+artifacts for the three major competency areas - Software Engineering and Design, Algorithms and Data Structures, and Databases. In the video, I analyze the original implementations, identify
+weaknesses, and explain the enhancement strategies I followed to improve functionality, maintainability, and architectural quality. The review also demonstrates my ability to communicate 
+technical concepts clearly while evaluating trade-offs and applying industry standards.
+
+  The enhancements discussed in the video reflect my progression throughout the Computer Science program, including improvements in modular design, database integration, error handling, and 
+user-focused architecture. This code review serves as a supplement to the final polished artifacts in my ePortfolio and provides insight into my reasoning, design decisions, and overall
+development process.
+
+**Video Link:** https://youtu.be/oxLEZ8DY_qE
