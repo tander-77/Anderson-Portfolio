@@ -1,4 +1,4 @@
-**Data Analytics | Data Engineering | Business Intelligence**
+# **Data Analytics | Data Engineering | Business Intelligence**
 **Computer Science Graduate | MBA Candidate**
 
 Welcome to my portfolio!
