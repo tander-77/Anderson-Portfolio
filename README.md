@@ -99,7 +99,7 @@ My goal is to combine my technical background in Computer Science with my gradua
 
 ## Connect With Me
 
-**LinkedIn:** [Trinity Anderson](https://www.linkedin.com/)
+**LinkedIn:** [Trinity Anderson](https://www.linkedin.com/in/trinity-anderson-ny)
 
 **GitHub:** [tander-77](https://github.com/tander-77)
 
